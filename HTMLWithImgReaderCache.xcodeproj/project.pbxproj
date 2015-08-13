@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		83184CC51B7AFA6200DA5B48 /* LJWebView.m in Sources */ = {isa = PBXBuildFile; fileRef = 83184CC41B7AFA6200DA5B48 /* LJWebView.m */; };
 		83184D191B7C3B5500DA5B48 /* LJShowScrollPicture.m in Sources */ = {isa = PBXBuildFile; fileRef = 83184D181B7C3B5500DA5B48 /* LJShowScrollPicture.m */; };
+		83184D1B1B7C719A00DA5B48 /* 使用图解.png in Resources */ = {isa = PBXBuildFile; fileRef = 83184D1A1B7C719A00DA5B48 /* 使用图解.png */; };
 		83D910621B79E3A3001B8686 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 83D910611B79E3A3001B8686 /* main.m */; };
 		83D910651B79E3A3001B8686 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 83D910641B79E3A3001B8686 /* AppDelegate.m */; };
 		83D910681B79E3A3001B8686 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 83D910671B79E3A3001B8686 /* ViewController.m */; };
@@ -54,6 +55,7 @@
 		83184CC41B7AFA6200DA5B48 /* LJWebView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LJWebView.m; sourceTree = "<group>"; };
 		83184D171B7C3B5500DA5B48 /* LJShowScrollPicture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LJShowScrollPicture.h; sourceTree = "<group>"; };
 		83184D181B7C3B5500DA5B48 /* LJShowScrollPicture.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LJShowScrollPicture.m; sourceTree = "<group>"; };
+		83184D1A1B7C719A00DA5B48 /* 使用图解.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "使用图解.png"; sourceTree = "<group>"; };
 		83D9105C1B79E3A3001B8686 /* HTMLWithImgReaderCache.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HTMLWithImgReaderCache.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		83D910601B79E3A3001B8686 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		83D910611B79E3A3001B8686 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -158,6 +160,7 @@
 				83184CC41B7AFA6200DA5B48 /* LJWebView.m */,
 				83184D171B7C3B5500DA5B48 /* LJShowScrollPicture.h */,
 				83184D181B7C3B5500DA5B48 /* LJShowScrollPicture.m */,
+				83184D1A1B7C719A00DA5B48 /* 使用图解.png */,
 				83D910D81B7A0FFF001B8686 /* image.js */,
 				83D910851B79E3BF001B8686 /* WebViewJavascriptBridge */,
 				83D910691B79E3A3001B8686 /* Main.storyboard */,
@@ -331,6 +334,7 @@
 				83D9108D1B79E3BF001B8686 /* WebViewJavascriptBridge.js.txt in Resources */,
 				83D910D91B7A0FFF001B8686 /* image.js in Resources */,
 				83D9106B1B79E3A3001B8686 /* Main.storyboard in Resources */,
+				83184D1B1B7C719A00DA5B48 /* 使用图解.png in Resources */,
 				83D910701B79E3A3001B8686 /* LaunchScreen.xib in Resources */,
 				83D9106D1B79E3A3001B8686 /* Images.xcassets in Resources */,
 			);
