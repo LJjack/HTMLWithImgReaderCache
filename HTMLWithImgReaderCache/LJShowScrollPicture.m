@@ -87,6 +87,7 @@
     NSInteger imageCount = _allImages.count;
     [_scrollView setContentSize:CGSizeMake(_scrollView.frame.size.width*imageCount, 0)];
     [_scrollView setContentOffset:CGPointMake(_scrollView.frame.size.width*_index, 0) animated:NO];
+    //此处需要优化
     for (NSInteger i = 0; i < imageCount; i ++) {
         UIImageView *imageView = [[UIImageView alloc] initWithFrame:_scrollView.frame];
         
